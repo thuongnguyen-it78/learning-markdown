@@ -220,7 +220,7 @@ support, check out.
 - Your result
     :rocket
 ## Reference
-> ![markdown-cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+> [markdown-cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 
 
