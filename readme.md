@@ -125,7 +125,7 @@ http://github.com - automatic!
 ### 7. BACKSLASH ESCAPES
 ``` 
 Markdown allows you to use backslash escapes to generate literal characters which
-would otherwise have special meaning in Markdown’s formaing syntax.
+would otherwise have special meaning in Markdown’s formatting syntax.
 ```
 
 - Markdown provides backslash escapes for
