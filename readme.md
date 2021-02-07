@@ -157,8 +157,10 @@ the following characters:
 
 ### 8. FENCED CODE BLOCKS.
 ``` 
-Markdown coverts text with four leading spaces into a code block; with GFM you can
-wrap your code with ``` to create a code block without the leading spaces. Add an optional language identifier and your code will get syntax highlighting.
+Markdown coverts text with four leading spaces into a code block; with 
+GFM you can wrap your code with ``` to create a code block without 
+the leading spaces. Add an optional language identifier and your code 
+will get syntax highlighting.
 ```
 
 > Example
@@ -203,13 +205,10 @@ supported)
 
 ### 10. USERNAME @MENTIONS
 ``` 
-Typing an @ symbol, followed by
-a username, will notify that person
+Typing an @ symbol, followed by a username, will notify that person
 to come and view the comment.
-This is called an “@mention”,
-because you’re mentioning the
-individual. You can also @mention
-teams within an organization.
+This is called an “@mention”, because you’re mentioning the individual.
+You can also @mention teams within an organization.
 ```
 > Example
 - Your typing
